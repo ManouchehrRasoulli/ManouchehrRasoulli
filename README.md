@@ -12,6 +12,6 @@ You can find me on 🌐:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ManouchehrRasoulli&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManouchehrRasoulli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I like to solve problems and already i'm doing some `cata` on codewars and here is my stats.
+I like to solve problems and already i'm doing some `Kata` on codewars and here is my stats.
 
 ![codewars](https://www.codewars.com/users/ManouchehrRasoulli/badges/large)
